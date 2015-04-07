@@ -1,10 +1,10 @@
-import time
 import re
 import sys
+import time
 import urllib
-from bs4 import BeautifulSoup
-from PySide.QtCore import *
 from PySide.QtGui import *
+from PySide.QtCore import *
+from bs4 import BeautifulSoup
 from twilio.rest import TwilioRestClient
 
 

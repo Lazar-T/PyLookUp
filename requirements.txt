@@ -1,4 +1,4 @@
 argparse==1.2.1
-py-notify==0.3.1
-pygame==1.9.1release
+twilio==3.6.6
+beautifulsoup4==4.3.2
 wsgiref==0.1.2
