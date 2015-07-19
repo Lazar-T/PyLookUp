@@ -35,8 +35,7 @@ def find_test():
         account_sid = ""
         auth_token = ""
         client = TwilioRestClient(account_sid, auth_token)
-        message = (client.sms.messages.create(body="" +
-        link_to_page, to="", from_=""))
+        message = (client.sms.messages.create(body="" + link_to_page, to="", from_=""))
         exit()
 
 
