@@ -2,7 +2,7 @@ PyLookUp
 =========
 
 
-###About
+### About
 Enter part or full name of the file that you are looking to be found on any site, and get link automatically open in browser & sent to your mobile phone when its uploaded to the site.
 
 ### Requirements
